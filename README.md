@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Hi, I'm Guilherme Csorgo! Glad to see you here. 😍
+I'm Guilherme Csorgo! Glad to see you here. 😍
 I'm a passionate developer and I'm always looking for new stuff to learn.
 I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️
 
