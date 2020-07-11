@@ -17,6 +17,6 @@ I create successful websites and systems on the web, fast, simple and easy to us
 - 💬 Ask me about anything! I will try to help you the best way I can!
 - 📫 How to reach me: https://guilhermecsorgo.com.br
 - 😄 Pronouns: All my friends call me Csorgo. It sounds like "Tchôrgo"
-- ⚡ Fun fact: Here you'll find all kind of stuff, including bots, scripts, APIs ans so on
+- ⚡ Fun fact: Here you'll find all kind of stuff, including bots, scripts, APIs and so on
 
 Welcome to my profile! Feel free do download and use my stuff 😜
