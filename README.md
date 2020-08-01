@@ -8,5 +8,4 @@ My main programming language is C#, but I'm coding with Python, R and Javascript
 
 Welcome to my profile! Feel free do download and use my stuff 😜
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/csorgod)](https://twitter.com/csorgod)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-csorgo)](https://www.linkedin.com/in/guilherme-csorgo)
