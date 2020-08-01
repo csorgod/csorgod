@@ -1,22 +1,12 @@
 ### Hi there 👋
 
-<!--
-**csorgod/csorgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-I'm Guilherme Csorgo! Glad to see you here. 😍
+I'm Guilherme Csorgo, but all my friends call me Csorgo. It sounds like "Tchôrgo"! Glad to see you here. 😍
 I'm a passionate developer and I'm always looking for new stuff to learn.
-I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️
+I create websites, apps and systems on the web, fast, simple and easy to use.
 
-- 🔭 I’m currently working on Sindus ANDRITZ as Fullstack developer.
-- 🌱 I’m currently learning IA and machine learning.
-- 👯 I’m not looking for Open source repos to collaborate right now.
-- 🤔 I’m looking for help with Sound detection/analysis
-- 💬 Ask me about anything! I will try to help you the best way I can!
-- 📫 How to reach me: https://guilhermecsorgo.com.br
-- 😄 Pronouns: All my friends call me Csorgo. It sounds like "Tchôrgo"
-- ⚡ Fun fact: Here you'll find all kind of stuff, including bots, scripts, APIs and so on
+My main programming language is C#, but I'm coding with Python, R and Javascript as well.
 
 Welcome to my profile! Feel free do download and use my stuff 😜
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/csorgod)](https://twitter.com/csorgod)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-csorgo)](https://www.linkedin.com/in/guilherme-csorgo)
