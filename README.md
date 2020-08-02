@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Guilherme Csorgo, but all my friends call me Csorgo. It sounds like "Tchôrgo"! Glad to see you here. 😍
+I'm Guilherme Csorgo, A.K.A. Csorgo (It sounds like "Tchôrgo"). Glad to see you here. 😍
 I'm a passionate developer and I'm always looking for new stuff to learn.
 I create websites, apps and systems on the web, fast, simple and easy to use.
 
