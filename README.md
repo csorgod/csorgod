@@ -29,6 +29,6 @@ Welcome to my profile! Feel free do download and use my stuff 😜
 
 ### Abstract
 
-- 👨‍💻 I'm currently looking for a new position as a Fullstack developer.
+- 👨‍💻 I'm currently working as a Software engineer at [Itaú Unibanco](https://www.itau.com.br/relacoes-com-investidores/ShowEstruturaUnibanco.aspx?idMateria=WbT46EXe1KgmoHGgMBH/NA==).
 - 🌱 Learning more about and studying: **Node.js, React.js, Python and Data Science itself**.
 - 💙 Interests: IA and Entrepreneurship.
