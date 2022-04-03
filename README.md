@@ -21,7 +21,7 @@ I'm Guilherme Csorgo, A.K.A. Csorgo (It sounds like "Tchôrgo"). Glad to see you
 I'm a passionate developer and I'm always looking for new stuff to learn.
 I create websites, apps and systems on the web, fast, simple and easy to use.
 
-My main programming language is C#, but I'm coding with Python and Javascript as well.
+Currently I'm working with Python, but C# and javascript will be always on my heart ❤
 
 Welcome to my profile! Feel free do download and use my stuff 😜
 
